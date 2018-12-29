@@ -21,10 +21,10 @@ world:
   size: 1
 ```
 
-`height` - The world height. This block and all those below it will be filled in.
-`edgeMat1` - One of two materials used to outline chunks.
-`edgeMat2` - The second material used to outline chunks.
-`fillMat` - The material used for the blocks on the inside of a chunk.
+`height` - The world height. This block and all those below it will be filled in.  
+`edgeMat1` - One of two materials used to outline chunks.  
+`edgeMat2` - The second material used to outline chunks.  
+`fillMat` - The material used for the blocks on the inside of a chunk.  
 `size` - Does nothing for now. Planned to allow you to outline not just 1x1 chunk but 2x2+ chunk areas.
 
 See [this](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html) list of valid materials.
