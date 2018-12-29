@@ -1,0 +1,6 @@
+world:
+  height: 64
+  edgeMat1: WHITE_WOOL
+  edgeMat2: GRAY_WOOL
+  fillMat: IRON_BLOCK
+  size: 1

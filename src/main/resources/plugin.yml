@@ -1,0 +1,6 @@
+name: GridGenerator
+version: 1.0.1.13.2
+api-version: 1.13
+main: GridGenerator.GridGenerator
+author: pez252
+load: startup
